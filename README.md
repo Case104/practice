@@ -1,1 +1,1 @@
-# Repository for small snippets of practice work
+# Repository for snippets of practice work
